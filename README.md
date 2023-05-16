@@ -1,1 +1,4 @@
 # back
+# Quite a few warnings. I am sorry if things get confusing, I worked on the project myself so if I did things I was not supposed to I apologize. I used Postgresqland made a databse with some schemas following a youtube tutorial. In the backend config file you will see username, password and database name. Those are mine and specific to my Postgresql setup and I believe you might have to use your own credentials. In the case that you are unable to do so I will provide a youtube video of myself launching both front and back and testing the website. I apologize again and thank you.
+
+# If you want to start the back, you will need to change the config file to your credentials and then once that is done you can do "node app.js" in the terminal and it should output "Server is running on port 3001".
